@@ -17,7 +17,7 @@ Customer segmentation using K-Means clustering.
 ### Task 03 – SVM Image Classification
 Image classification using a Support Vector Machine.
 
-[View Repository](YOUR_LINK)
+[View Repository](https://github.com/Draxter09/PRODIGY_ML_03.git)
 
 ### Task 04 – CNN Hand Gesture Classification
 10-class hand-gesture recognition using a Convolutional Neural Network.
