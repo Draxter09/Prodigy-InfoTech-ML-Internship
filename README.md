@@ -7,7 +7,7 @@ This repository provides an overview of the machine-learning tasks completed dur
 ### Task 01 – Linear Regression
 Housing-price prediction using Linear Regression.
 
-[View Repository](YOUR_LINK)
+[View Repository](https://github.com/Draxter09/PRODIGY_ML_01.git)
 
 ### Task 02 – K-Means Clustering
 Customer segmentation using K-Means clustering.
