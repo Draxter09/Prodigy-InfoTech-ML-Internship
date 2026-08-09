@@ -12,7 +12,7 @@ Housing-price prediction using Linear Regression.
 ### Task 02 – K-Means Clustering
 Customer segmentation using K-Means clustering.
 
-[View Repository](YOUR_LINK)
+[View Repository](https://github.com/Draxter09/PRODIGY_ML_02.git)
 
 ### Task 03 – SVM Image Classification
 Image classification using a Support Vector Machine.
